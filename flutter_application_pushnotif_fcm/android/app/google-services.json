@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "890800002014",
+    "project_id": "flutter-app-pushnotif-crm",
+    "storage_bucket": "flutter-app-pushnotif-crm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890800002014:android:cb7450669b48efd3b5034f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_pushnotif_fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890800002014-nophramkob7qipsvek8urs9innpcpu28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-phuzakfhYTV3kULr3WZ7cI0pxIsr9Sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890800002014-nophramkob7qipsvek8urs9innpcpu28.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "890800002014-4ci4o3ccmc5l35k3q12a4hr6e1cfplvo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplicationPushnotifFcm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
