@@ -1,0 +1,1 @@
+String markdownData = '1. Masukkan PIN anda 2. Pilih menu **Penarikan Tunai** atau **Penarikan Lainnya**https://cdn.myanimelist.net/images/anime/1483/126005.jpg';
